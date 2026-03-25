@@ -1,0 +1,8 @@
+dist
+package
+.DS_Store
+.env
+.claude/
+.slack/apps.dev.json
+.slack/apps.json
+.slack/config.json
